@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "526534535188",
+    "firebase_url": "https://fyp4-9b1fc-default-rtdb.firebaseio.com",
+    "project_id": "fyp4-9b1fc",
+    "storage_bucket": "fyp4-9b1fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526534535188:android:dd302dd540a75112a05f01",
+        "android_client_info": {
+          "package_name": "com.tasktakers.water_usage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526534535188-flago56rfu3ggq9ttnjrk5uhclta2ch7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW1cdlIxNPUspKOuE_Ie59omV2tg_SvA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526534535188-flago56rfu3ggq9ttnjrk5uhclta2ch7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
